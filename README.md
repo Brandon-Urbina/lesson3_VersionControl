@@ -5,16 +5,19 @@
 Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+(September 28th, 2018)
 
 ## Student Name:  
-(First and Last Name)
+(Brandon Urbina)
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+(This assignment allowed us to build upon what we learned from lesson 2, and goes further to show us how to upload it on GitHub.)
+
+## View Project:
+https://burbina-inventions.github.io/lesson3_VersionControl/
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Learned what version control was and how it works.
+2. The history og Git and how it came to be, and how it works as well, even learning differences between that and other VCSs.
+3. How to get started with Git and utilizing GitHub. 
 
